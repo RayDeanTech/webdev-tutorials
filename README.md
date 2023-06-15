@@ -7,4 +7,4 @@ The tutorials are provided by my favorite YouTubers, and I have credited them wi
 
 # Test Relative Link
 [Subfolder 1](/canvas-crash-course/)
-</canvas-crash-course/>
+[/canvas-crash-course/][/canvas-crash-course/]
