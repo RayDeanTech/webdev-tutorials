@@ -8,9 +8,13 @@ The tutorials are provided by my favorite YouTubers, and I have credited them wi
 
 # Testing Index
 
+[canvas-crash-course/](canvas-crash-course/)
+
 [/canvas-crash-course/](/canvas-crash-course/)
 
-[/canvas-crash-course/](./canvas-crash-course/)
+[./canvas-crash-course/](./canvas-crash-course/)
 
-[webdev-tutorials/canvas-crash-course/](./canvas-crash-course/)
+[webdev-tutorials/canvas-crash-course/](webdev-tutorials/canvas-crash-course/)
+
+[./webdev-tutorials/canvas-crash-course/](./webdev-tutorials/canvas-crash-course/)
 
