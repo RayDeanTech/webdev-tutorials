@@ -1,6 +1,6 @@
 # Provider
 
-[Traversy Media](https://www.youtube.com/@TraversyMedia), Brad Traversy
+[Traversy Media](https://www.youtube.com/@TraversyMedia)
 
 # Description
 
